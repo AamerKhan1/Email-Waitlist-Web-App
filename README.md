@@ -1,4 +1,9 @@
 # Email-Waitlist-Web-App
 Web app using MySQL &amp; Node.JS
 
-![](EWA.gif)
+
+
+
+<p align="center">
+  <img src="https://gfycat.com/impolitegroundedclownanemonefish">
+</p>
